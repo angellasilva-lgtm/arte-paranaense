@@ -1,1 +1,17 @@
 
+body{
+    background-color: rgb(22, 54, 124);
+    color:rgb(90, 171, 248);
+}
+header{
+    background-color: aliceblue;
+    color: rgb(32, 42, 54);
+}
+section{
+    background-color: rgb(49, 28, 28);
+    color: rgb(169, 208, 241);
+}
+footer{
+    background-color: aqua;
+    color: blueviolet;
+}
